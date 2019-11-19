@@ -120,3 +120,7 @@ formatting on-save, it is beneficial to enable that setting.
 
 If your IDE is not observing the configuration file(s) correctly, it is
 advisable to disable all auto-formatting to avoid inconsistencies.
+
+## License
+
+Code released under the [Apache License, Version 2.0](LICENSE).
